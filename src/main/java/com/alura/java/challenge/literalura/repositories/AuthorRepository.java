@@ -1,9 +1,9 @@
-package com.alura_oracle_one.GutendexApplication.repositories;
+package com.alura.java.challenge.literalura.repositories;
 
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.alura_oracle_one.GutendexApplication.models.Author;
+import com.alura.java.challenge.literalura.models.Author;
 
 public interface AuthorRepository extends JpaRepository<Author, Long> {
     Author findByName(String name);
