@@ -1,12 +1,12 @@
-package com.alura_oracle_one.GutendexApplication.services;
+package com.alura.java.challenge.literalura.services;
 
-import com.alura_oracle_one.GutendexApplication.repositories.AuthorRepository;
-import com.alura_oracle_one.GutendexApplication.repositories.BookRepository;
-import com.alura_oracle_one.GutendexApplication.utils.GutendexClient;
+import com.alura.java.challenge.literalura.repositories.AuthorRepository;
+import com.alura.java.challenge.literalura.repositories.BookRepository;
+import com.alura.java.challenge.literalura.utils.GutendexClient;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.alura_oracle_one.GutendexApplication.models.Author;
-import com.alura_oracle_one.GutendexApplication.models.Book;
+import com.alura.java.challenge.literalura.models.Author;
+import com.alura.java.challenge.literalura.models.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
