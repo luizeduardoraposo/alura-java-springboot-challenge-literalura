@@ -1,15 +1,13 @@
-package com.alura_oracle_one.GutendexApplication.controllers;
+package com.alura.java.challenge.literalura.controllers;
 
-import com.alura_oracle_one.GutendexApplication.models.Book;
-import com.alura_oracle_one.GutendexApplication.services.BookService;
+import com.alura.java.challenge.literalura.services.BookService;
+import com.alura.java.challenge.literalura.models.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 
-
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
