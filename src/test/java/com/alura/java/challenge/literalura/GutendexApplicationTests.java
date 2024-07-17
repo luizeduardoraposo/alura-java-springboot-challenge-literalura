@@ -1,4 +1,4 @@
-package com.alura_oracle_one.GutendexApplication;
+package com.alura.java.challenge.literalura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
