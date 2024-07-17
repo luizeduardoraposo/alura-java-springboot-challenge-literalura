@@ -1,4 +1,4 @@
-package com.alura_oracle_one.GutendexApplication.models;
+package com.alura.java.challenge.literalura.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
