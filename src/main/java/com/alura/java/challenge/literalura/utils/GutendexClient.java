@@ -1,4 +1,4 @@
-package com.alura_oracle_one.GutendexApplication.utils;
+package com.alura.java.challenge.literalura.utils;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
